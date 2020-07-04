@@ -20,3 +20,6 @@ Going to be sure to setup files and setup dependency number one first...
 ## Number 2
 Alrighty so finished setting up dependency and evnirment now to start with marking up the HTML
 going to try to reduce the amount of **ID** but try to make it clear and readable and easy to use for **SASS**
+## Number 3
+Alrighty so finished Markup of the HTML i think going to try and add the arrows using peusude code in SCSS
+Hopefully things work out stylishly but we shall see hardy har har...
