@@ -26,3 +26,6 @@ Hopefully things work out stylishly but we shall see hardy har har...
 ## Number 4
 So i basically had setup the basic mobile version of it now to make it responsive kinda of making use to pesudo code so that is somsething nice
 kinda of interssting to see how you can use the postiontion style tbh but hey slow and steady hope it can be understood
+## Number 5
+Alrighty so going to try and make it desktop version and preety much resposive so lets see how this
+will go, 
