@@ -23,3 +23,6 @@ going to try to reduce the amount of **ID** but try to make it clear and readabl
 ## Number 3
 Alrighty so finished Markup of the HTML i think going to try and add the arrows using peusude code in SCSS
 Hopefully things work out stylishly but we shall see hardy har har...
+## Number 4
+So i basically had setup the basic mobile version of it now to make it responsive kinda of making use to pesudo code so that is somsething nice
+kinda of interssting to see how you can use the postiontion style tbh but hey slow and steady hope it can be understood
