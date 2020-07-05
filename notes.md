@@ -36,3 +36,8 @@ I know i know my code my look like poop but please let me know what alternative 
 i feel like i know how to make it happen but i dont think it is the correct way to do things. so please if you know a way let me know?
 if you are reading this dm me on twitter or something or just do something here on github?
 Going to try and create that transition now with js
+## number 7
+Finished so i know i may be able to make the javascript a little better...
+IF you think you can make it better let me know i would like to see what you got.
+To be honest would like to find a mentor if you want to be friend let me know.
+Other than that **finished** 
