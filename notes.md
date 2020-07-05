@@ -29,3 +29,10 @@ kinda of interssting to see how you can use the postiontion style tbh but hey sl
 ## Number 5
 Alrighty so going to try and make it desktop version and preety much resposive so lets see how this
 will go, 
+## Number 6
+Preety much finished the respsonsive but to be honest feel like it could use some more work.
+**NeedMuchHelp**
+I know i know my code my look like poop but please let me know what alternative way would be nice to keep everything in place until trasition.
+i feel like i know how to make it happen but i dont think it is the correct way to do things. so please if you know a way let me know?
+if you are reading this dm me on twitter or something or just do something here on github?
+Going to try and create that transition now with js

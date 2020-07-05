@@ -25,6 +25,9 @@ body {
   height: 100%;
   max-width: 850px;
   margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   position: relative; }
 
 .slide {
@@ -35,7 +38,7 @@ body {
   justify-content: center;
   text-align: center; }
   .slide__image {
-    width: 340px;
+    width: 100%;
     height: 100%;
     margin: 0 auto;
     padding: 40px;
@@ -44,19 +47,18 @@ body {
     background-position: center;
     background-size: contain; }
     .slide__image img {
-      width: 100%;
+      width: 300px;
       height: 100%; }
   .slide__content {
-    margin-top: 20px;
-    padding: 25px;
+    padding-top: 30px;
     font-size: 19px;
     background-image: url("../images/pattern-quotes.svg");
     background-position: center top;
     background-repeat: no-repeat;
     background-size: 15%; }
   .slide__testimonial {
-    line-height: 1.3;
-    font-weight: 100;
+    line-height: 1.4;
+    font-weight: 300;
     color: #202046; }
   .slide__author {
     margin-top: 20px;
@@ -73,9 +75,11 @@ body {
   width: 90px;
   height: 45px;
   border-radius: 50px;
-  top: 38%;
+  top: 53%;
   left: 50%;
-  transform: translateX(-50%); }
+  transform: translateX(-50%);
+  box-shadow: 0 3px 10px 3px rgba(0, 0, 0, 0.5);
+  overflow: hidden; }
 
 .prev,
 .next {
@@ -115,6 +119,27 @@ body {
 
 .next::before {
   background-image: url("../images/icon-next.svg"); }
+
+@media only screen and (min-width: 768px) {
+  .container {
+    background-size: 500px;
+    background-position: left bottom; }
+  .slide {
+    flex-direction: row;
+    text-align: left; }
+    .slide__content {
+      background-position: 15% top; }
+    .slide__author-ocupation {
+      display: inline-block; }
+    .slide__image {
+      margin-left: -100px;
+      z-index: -1; }
+      .slide__image img {
+        width: 380px; }
+  .buttons {
+    top: 72%;
+    transform: translate(0);
+    left: calc(100% - 395px); } }
 
 .slide__2 {
   display: none; }
